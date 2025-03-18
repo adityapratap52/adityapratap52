@@ -59,8 +59,11 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 <p align="center"> 
     <img title="Java" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width="70" height="50" style="margin-right:20px">
     <img title="Spring Boot" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="70" height="50" style="margin-right:20px">
+    <img title="Hibernate" src="https://github.com/adityapratap52/adityapratap52/blob/main/hibernate.svg" width="70" height="50" style="margin-right:20px">
+    <img title="Thymeleaf" src="https://img.icons8.com/?size=100&id=iWpVsSkAqPpZ&format=png&color=000000" width="70" height="50" style="margin-right:20px">
     <img title="JWT Tokens" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="70" height="50" style="margin-right:20px">
     <img title="MySQL" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="70" height="50" style="margin-right:20px">
+    <img title="Postgresql" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="70" height="50" style="margin-right:20px">
     <img title="MongoDB" style="margin-top:10px; margin-right:20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
     <img title="Git" src="https://img.icons8.com/color/48/000000/git.png" style="margin-right:20px"/> 
     <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:20px"/> 
