@@ -61,8 +61,7 @@ I'm a full-stack web developer with experience in both front-end and back-end te
     <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="70" height="50" style="margin-right:20px">
     <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="70" height="50" style="margin-right:20px">
     <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="70" height="50" style="margin-right:20px">
-
-    <img style="margin-top:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" style="margin-right:20px"/>
+    <img style="margin-top:10px; margin-right:20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" style="margin-right:20px"/> 
     <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:20px"/> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:20px"/>
