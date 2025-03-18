@@ -83,6 +83,7 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 <br/>
 
 <p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapratap52" alt="GitHub Streak121" /></a>
     <a href="https://github.com/adityapratap52/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="adityapratap52's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapratap52&theme=radical&hide_border=true&stroke=0000&background=#122722"/>
     </a>
