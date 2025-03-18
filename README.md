@@ -57,7 +57,7 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 <h1 style="color:#fa4a6f;font-size:35px;text-align:center">🚀 Language and Tools</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> 
-    <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width="70" height="50" style="margin-right:20px">
+    <img title="Java" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width="70" height="50" style="margin-right:20px">
     <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="70" height="50" style="margin-right:20px">
     <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="70" height="50" style="margin-right:20px">
     <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="70" height="50" style="margin-right:20px">
