@@ -19,8 +19,7 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 <img width="100px" height="30px" src="https://img.shields.io/badge/M-MongoDB-pink"/>
 </p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/><br/>
-<img align="right" alt="coding" width="550" style="margin-left:30px" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
+<img align="right" alt="coding" width="50" style="margin-left:30px;" src="https://img.icons8.com/?size=100&id=sXm12ie1GUjg&format=png&color=000000"/>
 <h2> ##  🙋‍♀️  About Me  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px height = 25px> </h2>    
 
 
