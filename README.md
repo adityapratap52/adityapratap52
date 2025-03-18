@@ -65,7 +65,6 @@ I'm a full-stack web developer with experience in both front-end and back-end te
     <img title="MySQL" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="70" height="50" style="margin-right:20px">
     <img title="Postgresql" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="70" height="50" style="margin-right:20px">
     <img title="MongoDB" style="margin-top:10px; margin-right:20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-    <img title="Git" src="https://img.icons8.com/color/48/000000/git.png" style="margin-right:20px"/> 
     <img title="HTML-5" src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:20px"/>
     <img title="CSS" src="https://img.icons8.com/color/48/000000/css.png" style="margin-right:50px"/>
     <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:20px"/> 
@@ -76,6 +75,7 @@ I'm a full-stack web developer with experience in both front-end and back-end te
  <img title="Intellij Idea" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" width="70" height="50" style="margin-right:20px">
  <img title="Eclipse IDE" src="https://img.icons8.com/?size=100&id=w1uD6vtDitjr&format=png&color=000000" width="70" height="50" style="margin-right:20px">
  <img title="VS Code" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="70" height="50" style="margin-right:20px">
+ <img title="Git" src="https://img.icons8.com/color/48/000000/git.png" style="margin-right:20px"/> 
  <img title="GitHub & GitHub Desktop" src="https://img.icons8.com/?size=100&id=D5XsEXNbhkMI&format=png&color=000000" width="70" height="50" style="margin-right:20px">
  <img title="Tortoise SVN" src="https://img.icons8.com/?size=100&id=50468&format=png&color=000000" width="70" height="50" style="margin-right:20px">
 </p>
@@ -83,8 +83,8 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 <br/>
 
 <p align="center">
-    <a href="https://github.com/abhishek-quicktouch/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="abhishek-quicktouch's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-quicktouch&theme=radical&hide_border=true&stroke=0000&background=#122722"/>
+    <a href="https://github.com/adityapratap52/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="adityapratap52's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapratap52&theme=radical&hide_border=true&stroke=0000&background=#122722"/>
     </a>
 </p>
 
