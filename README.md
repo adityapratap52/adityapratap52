@@ -94,31 +94,31 @@ I'm a full-stack web developer with experience in both front-end and back-end te
  
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-quicktouch&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityapratap52&theme=2077">
   </div>
   <div style="display: flex; justify-content: space-around; width: 100%;margin:20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-quicktouch&theme=2077">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-quicktouch&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityapratap52&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityapratap52&theme=2077">
   </div>
   <div style="display: flex; justify-content: space-around;  width: 100%;margin:20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-quicktouch&theme=2077">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-quicktouch&theme=2077&utcOffset=8">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityapratap52&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityapratap52&theme=2077&utcOffset=8">
   </div>
 </div>
 
 ## 🏆 Trophies :
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-quicktouch&theme=onedark" alt="abhishek-quicktouch" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityapratap52&theme=onedark" alt="adityapratap52" /></a> </p>
 
 
 </p>
 
  <h2>❤ Views and Followers :</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/abhishek-quicktouch/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=abhishek-quicktouch" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/adityapratap52/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=adityapratap52" >
     </a>
-    <a href="https://github.com/abhishek-quicktouch?tab=followers">
-        <img src="https://img.shields.io/github/followers/abhishek-quicktouch?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/adityapratap52?tab=followers">
+        <img src="https://img.shields.io/github/followers/adityapratap52?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
     <h2><a href="https://abhi21121211.github.io/">🌍 | Portfolio </a></h2>
