@@ -40,8 +40,8 @@ I'm a full-stack web developer with experience in both front-end and back-end te
  ## Connect me on:    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="120px" height="50px" >
 
 <div style="display:flex;gap:20px">
-<a href = "https://www.linkedin.com/in/aditya-pratap-singh-5a2a19220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="mailto:adityapratap1490@gmail.com"><img width=43px height=45px src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000"></a>
+<a href = "https://www.linkedin.com/in/aditya-pratap-singh-5a2a19220/"><img width=40px height=43px src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:adityapratap1490@gmail.com"><img width=40px height=43px src="https://github.com/adityapratap52/adityapratap52/blob/main/gmail.png"></a>
 <a href="https://api.whatsapp.com/send?phone=9119786188"><img width=40px height=43px src="https://img.icons8.com/?size=100&id=A1JUR9NRH7sC&format=png&color=000000"></a>
 
 </div>
