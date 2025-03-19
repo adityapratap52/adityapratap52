@@ -15,7 +15,7 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 <img width="100px" height="30px"  src="https://img.shields.io/badge/J-JSP-green"/>
 <img width="100px" height="30px" src="https://img.shields.io/badge/JS-Javascript-brown"/>
 <img width="100px" height="30px" src="https://img.shields.io/badge/M-MySQL-pink"/>
-<img width="100px" height="30px" src="https://img.shields.io/badge/M-Postgres-pink"/>
+<img width="100px" height="30px" src="https://img.shields.io/badge/M-Postgresql-pink"/>
 <img width="100px" height="30px" src="https://img.shields.io/badge/M-MongoDB-pink"/>
 </p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
